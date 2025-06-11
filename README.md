@@ -29,5 +29,32 @@ As a student of DSA (*Digital Skillup Africa*), I've gained skills in:
     - Setting up GitHub
     - Uploading files to GitHub
 
----To God be the glory---
+## Power BI Skills Acquired
+
+**Data Sources**
+- SQL Database
+- Excel
+- Text/CSV File
+
+**Power Query**
+- Data Transformation
+- Modeling
+- Unpivot and Pivot
+- Fill Down
+- Promotion of Header
+- Concatenation
+
+**Data Processing**
+- Extracting, Transforming, and Loading (ETL) data
+- Cleaning and Trimming data
+- Appending and Merging data
+- Grouping data
+
+**Data Modeling and Performance**
+- Maximizing data performance
+- Data modeling and relationships in Power BI
+
+## Gratitude
+- Thanks to Digital Skills for Africa (DSA) for their wonderful job!
+
 
