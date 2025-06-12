@@ -1,4 +1,4 @@
-# MY-FIRST-PROJECT-DSA-WORK
+# MY-LEARNING-AT-DSA-ONLINE-TRAINNING
 
 ## MY NAME IS OLADIMEJI OLUWASHOLA OLADIMEJI
 As a student of DSA (*Digital Skillup Africa*), I've gained skills in:
@@ -29,7 +29,7 @@ As a student of DSA (*Digital Skillup Africa*), I've gained skills in:
     - Setting up GitHub
     - Uploading files to GitHub
 
-## Power BI Skills Acquired
+### Power BI Skills Acquired
 
 **Data Sources**
 - SQL Database
